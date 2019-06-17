@@ -117,7 +117,7 @@ def game_hash
     },#end of away
     
   } #end of game_hash hash
-  puts game_hash
+#  puts game_hash
   game_hash
 end
 
