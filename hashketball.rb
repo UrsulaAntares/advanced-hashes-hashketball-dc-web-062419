@@ -6,21 +6,106 @@ def game_hash
       :team_name => "", #string of the team name
       :colors =>["","",""], #an array of strings
       :players =>[
-        {
-          :number => "",
+        { :number => "",
           :shoe => "",
           :points => "",
           :rebounds => "",
           :assists => "",
           :steals => "",
           :blocks => "",
-          
-        },
-      ] #an array of hashes to contain players stats     
-    },
-    :away =>{}
+          :slam_dunks => ""
+        }, #end of a single player
+        { :number => "",
+          :shoe => "",
+          :points => "",
+          :rebounds => "",
+          :assists => "",
+          :steals => "",
+          :blocks => "",
+          :slam_dunks => ""
+        }, #end of a single player
+        { :number => "",
+          :shoe => "",
+          :points => "",
+          :rebounds => "",
+          :assists => "",
+          :steals => "",
+          :blocks => "",
+          :slam_dunks => ""
+        }, #end of a single player
+        { :number => "",
+          :shoe => "",
+          :points => "",
+          :rebounds => "",
+          :assists => "",
+          :steals => "",
+          :blocks => "",
+          :slam_dunks => ""
+        }, #end of a single player
+        { :number => "",
+          :shoe => "",
+          :points => "",
+          :rebounds => "",
+          :assists => "",
+          :steals => "",
+          :blocks => "",
+          :slam_dunks => ""
+        }, #end of a single player
+      ], #an array of hashes to contain players stats     
+    },#end of :home 
+    :away =>{
+      :team_name => "", #string of the team name
+      :colors =>["","",""], #an array of strings
+      :players =>[
+        { :number => "",
+          :shoe => "",
+          :points => "",
+          :rebounds => "",
+          :assists => "",
+          :steals => "",
+          :blocks => "",
+          :slam_dunks => ""
+        }, #end of a single player
+        { :number => "",
+          :shoe => "",
+          :points => "",
+          :rebounds => "",
+          :assists => "",
+          :steals => "",
+          :blocks => "",
+          :slam_dunks => ""
+        }, #end of a single player
+        { :number => "",
+          :shoe => "",
+          :points => "",
+          :rebounds => "",
+          :assists => "",
+          :steals => "",
+          :blocks => "",
+          :slam_dunks => ""
+        }, #end of a single player
+        { :number => "",
+          :shoe => "",
+          :points => "",
+          :rebounds => "",
+          :assists => "",
+          :steals => "",
+          :blocks => "",
+          :slam_dunks => ""
+        }, #end of a single player
+        { :number => "",
+          :shoe => "",
+          :points => "",
+          :rebounds => "",
+          :assists => "",
+          :steals => "",
+          :blocks => "",
+          :slam_dunks => ""
+        }, #end of a single player
+      ], #an array of hashes to contain players stats     
+    },#end of away
     
-  }
+  } #end of game_hash hash
 end
 
 
