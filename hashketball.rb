@@ -133,3 +133,4 @@ def num_points_scored(name)
   
 end
 
+num_points_scored("Kemba Walker")
