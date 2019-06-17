@@ -16,7 +16,46 @@ def game_hash
           blocks:  "",
           slam_dunks: ""
         }, #end of a single player
-        
+         "A" =>{ 
+          number: "",
+          shoe: "",
+          points: "",
+          rebounds: "",
+          assists: "",
+          steals: "",
+          blocks:  "",
+          slam_dunks: ""
+        }, #end of a single player
+         "A" =>{ 
+          number: "",
+          shoe: "",
+          points: "",
+          rebounds: "",
+          assists: "",
+          steals: "",
+          blocks:  "",
+          slam_dunks: ""
+        }, #end of a single player
+         "A" =>{ 
+          number: "",
+          shoe: "",
+          points: "",
+          rebounds: "",
+          assists: "",
+          steals: "",
+          blocks:  "",
+          slam_dunks: ""
+        }, #end of a single player
+         "A" =>{ 
+          number: "",
+          shoe: "",
+          points: "",
+          rebounds: "",
+          assists: "",
+          steals: "",
+          blocks:  "",
+          slam_dunks: ""
+        }, #end of a single player
       ], #an array of hashes to contain players stats     
     },#end of :home 
     :away =>{
