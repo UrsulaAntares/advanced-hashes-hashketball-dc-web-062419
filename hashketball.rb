@@ -46,15 +46,15 @@ def game_hash
           blocks:  "8",
           slam_dunks: "5"
         }, #end of a single player
-         "E" =>{ 
-          number: "",
-          shoe: "",
-          points: "",
-          rebounds: "",
-          assists: "",
-          steals: "",
-          blocks:  "",
-          slam_dunks: ""
+         "Jason Terry" =>{ 
+          number: "31",
+          shoe: "15",
+          points: "19",
+          rebounds: "2",
+          assists: "2",
+          steals: "4",
+          blocks:  "11",
+          slam_dunks: "1"
         }, #end of a single player
       ], #an array of hashes to contain players stats     
     },#end of :home 
