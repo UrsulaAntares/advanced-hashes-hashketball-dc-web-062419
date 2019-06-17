@@ -60,7 +60,7 @@ def game_hash
     },#end of :home 
     :away =>{
       :team_name => "Charlotte Hornets", #string of the team name
-      :colors =>["","",""], #an array of strings
+      :colors =>["Turquoise", "Purple"], #an array of strings
       :players =>[
         "A" =>{ 
           number: "",
