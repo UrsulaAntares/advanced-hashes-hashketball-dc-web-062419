@@ -37,6 +37,7 @@ def game_hash
     },#end of away
     
   } #end of game_hash hash
+  put game_hash
 end
 
 
