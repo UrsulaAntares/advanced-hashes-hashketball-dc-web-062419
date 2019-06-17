@@ -59,7 +59,7 @@ def game_hash
       ], #an array of hashes to contain players stats     
     },#end of :home 
     :away =>{
-      :team_name => "", #string of the team name
+      :team_name => "Charlotte Hornets", #string of the team name
       :colors =>["","",""], #an array of strings
       :players =>[
         "A" =>{ 
