@@ -72,15 +72,15 @@ def game_hash
           blocks:  "7",
           slam_dunks: "2"
         }, #end of a single player
-         "B" =>{ 
-          number: "",
-          shoe: "",
-          points: "",
-          rebounds: "",
-          assists: "",
-          steals: "",
-          blocks:  "",
-          slam_dunks: ""
+         "Bismack Biyombo" =>{ 
+          number: "0",
+          shoe: "16",
+          points: "12",
+          rebounds: "4",
+          assists: "7",
+          steals: "22",
+          blocks:  "15",
+          slam_dunks: "10"
         }, #end of a single player
          "C" =>{ 
           number: "",
