@@ -62,15 +62,55 @@ def game_hash
       :team_name => "", #string of the team name
       :colors =>["","",""], #an array of strings
       :players =>[
-        
-        { :number => "",
-          :shoe => "",
-          :points => "",
-          :rebounds => "",
-          :assists => "",
-          :steals => "",
-          :blocks => "",
-          :slam_dunks => ""
+        "A" =>{ 
+          number: "",
+          shoe: "",
+          points: "",
+          rebounds: "",
+          assists: "",
+          steals: "",
+          blocks:  "",
+          slam_dunks: ""
+        }, #end of a single player
+         "B" =>{ 
+          number: "",
+          shoe: "",
+          points: "",
+          rebounds: "",
+          assists: "",
+          steals: "",
+          blocks:  "",
+          slam_dunks: ""
+        }, #end of a single player
+         "C" =>{ 
+          number: "",
+          shoe: "",
+          points: "",
+          rebounds: "",
+          assists: "",
+          steals: "",
+          blocks:  "",
+          slam_dunks: ""
+        }, #end of a single player
+         "D" =>{ 
+          number: "",
+          shoe: "",
+          points: "",
+          rebounds: "",
+          assists: "",
+          steals: "",
+          blocks:  "",
+          slam_dunks: ""
+        }, #end of a single player
+         "E" =>{ 
+          number: "",
+          shoe: "",
+          points: "",
+          rebounds: "",
+          assists: "",
+          steals: "",
+          blocks:  "",
+          slam_dunks: ""
         }, #end of a single player
       ], #an array of hashes to contain players stats     
     },#end of away
