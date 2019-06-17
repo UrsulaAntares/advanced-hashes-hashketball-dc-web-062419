@@ -92,15 +92,15 @@ def game_hash
           blocks:  "5",
           slam_dunks: "5"
         }, #end of a single player
-         "D" =>{ 
-          number: "",
-          shoe: "",
-          points: "",
-          rebounds: "",
-          assists: "",
-          steals: "",
-          blocks:  "",
-          slam_dunks: ""
+         "Ben Gordon" =>{ 
+          number: "8",
+          shoe: "15",
+          points: "33",
+          rebounds: "3",
+          assists: "2",
+          steals: "1",
+          blocks:  "1",
+          slam_dunks: "0"
         }, #end of a single player
          "E" =>{ 
           number: "",
