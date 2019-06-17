@@ -3,7 +3,7 @@ require "pry"
 
 def game_hash
   game_hash = {
-    "home" => {
+    home: {
       team_name: "Brooklyn Nets", #string of the team name
       colors: ["Black", "White"], #an array of strings
       players: [
