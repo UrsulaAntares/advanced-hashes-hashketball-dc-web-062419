@@ -16,7 +16,7 @@ def game_hash
           blocks:  "",
           slam_dunks: ""
         }, #end of a single player
-         "A" =>{ 
+         "B" =>{ 
           number: "",
           shoe: "",
           points: "",
@@ -26,7 +26,7 @@ def game_hash
           blocks:  "",
           slam_dunks: ""
         }, #end of a single player
-         "A" =>{ 
+         "C" =>{ 
           number: "",
           shoe: "",
           points: "",
@@ -36,7 +36,7 @@ def game_hash
           blocks:  "",
           slam_dunks: ""
         }, #end of a single player
-         "A" =>{ 
+         "D" =>{ 
           number: "",
           shoe: "",
           points: "",
@@ -46,7 +46,7 @@ def game_hash
           blocks:  "",
           slam_dunks: ""
         }, #end of a single player
-         "A" =>{ 
+         "E" =>{ 
           number: "",
           shoe: "",
           points: "",
