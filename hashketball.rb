@@ -60,9 +60,9 @@ def game_hash
       ], #an array of hashes to contain players stats     
     },#end of :home 
     away: {
-      team_name: => "Charlotte Hornets", #string of the team name
-      colors: =>["Turquoise", "Purple"], #an array of strings
-      players: =>[
+      team_name:  "Charlotte Hornets", #string of the team name
+      colors: ["Turquoise", "Purple"], #an array of strings
+      players: [
         "Jeff Adrien" =>{ 
           number: "4",
           shoe: "18",
