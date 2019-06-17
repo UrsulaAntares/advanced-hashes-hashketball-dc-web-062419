@@ -126,7 +126,7 @@ game_hash
 
 def num_points_scored(name)
   game_hash.each do |locus, locus_data|
-      puts locus_data[players]
+      puts locus_data[:players]
   end
   
 end
