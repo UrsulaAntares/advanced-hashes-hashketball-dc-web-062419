@@ -62,15 +62,15 @@ def game_hash
       :team_name => "Charlotte Hornets", #string of the team name
       :colors =>["Turquoise", "Purple"], #an array of strings
       :players =>[
-        "A" =>{ 
-          number: "",
-          shoe: "",
-          points: "",
-          rebounds: "",
-          assists: "",
-          steals: "",
-          blocks:  "",
-          slam_dunks: ""
+        "Jeff Adrien" =>{ 
+          number: "4",
+          shoe: "18",
+          points: "10",
+          rebounds: "1",
+          assists: "1",
+          steals: "2",
+          blocks:  "7",
+          slam_dunks: "2"
         }, #end of a single player
          "B" =>{ 
           number: "",
