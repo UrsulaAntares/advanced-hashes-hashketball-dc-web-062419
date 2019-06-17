@@ -102,15 +102,15 @@ def game_hash
           blocks:  "1",
           slam_dunks: "0"
         }, #end of a single player
-         "E" =>{ 
-          number: "",
-          shoe: "",
-          points: "",
-          rebounds: "",
-          assists: "",
-          steals: "",
-          blocks:  "",
-          slam_dunks: ""
+         "Kemba Walker" =>{ 
+          number: "33",
+          shoe: "15",
+          points: "6",
+          rebounds: "12",
+          assists: "12",
+          steals: "7",
+          blocks:  "5",
+          slam_dunks: "12"
         }, #end of a single player
       ], #an array of hashes to contain players stats     
     },#end of away
