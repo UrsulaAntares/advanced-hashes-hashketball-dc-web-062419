@@ -128,11 +128,11 @@ def num_points_scored(name)
   game_hash.each do |locus, locus_data|
 #    puts locus_data[:team_name]
 #    puts locus_data[:players]
-     locus_data.each do |team_aspect, data|
+     locus_data.each do |team_aspect, aspect_data|
        puts team_aspect
         if team_aspect == :players
           puts "we see players"
-         data.each do |player_name, stats|
+         aspect_data.each do |player_name, stats|
           puts :player_name
         end
       end
