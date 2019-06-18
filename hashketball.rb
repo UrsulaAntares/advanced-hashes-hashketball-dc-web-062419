@@ -126,7 +126,7 @@ game_hash
 
 def num_points_scored(name)
   game_hash.each do |locus, locus_data|
-    puts locus_data
+    puts locus_data[:team_name]
 #      puts locus_data[:players][name]
 #      if locus_data[:players] == name
 #        puts "We found the guy and his name is #{name}"
