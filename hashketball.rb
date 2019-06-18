@@ -132,9 +132,10 @@ def num_points_scored(name)
        puts team_aspect
         if team_aspect == :players
           puts "we see players"
-         aspect_data.each do |player, stats|
-          puts stats
-        end
+          puts aspect_data
+  #       aspect_data.each do |player, stats|
+  #        puts stats
+  #      end
       end
      end
 #      if locus_data[:players] == name
