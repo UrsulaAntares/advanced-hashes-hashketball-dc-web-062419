@@ -129,7 +129,7 @@ def num_points_scored(name)
 #    puts locus_data[:team_name]
 #    puts locus_data[:players]
      locus_data.each do |team_aspect, data|
-       if team_aspect == players
+       if team_aspect == :players
          data.each do |player_name, stats|
           puts player_name
         end
