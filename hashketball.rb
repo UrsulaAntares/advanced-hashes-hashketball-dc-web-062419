@@ -133,7 +133,7 @@ def num_points_scored(name)
         if team_aspect == :players
           puts "we see players"
          aspect_data.each do |player, stats|
-          puts player
+          puts stats
         end
       end
      end
